@@ -1,0 +1,33 @@
+.grid  {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: royalblue;
+}
+.display {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: seagreen;
+}
+#scoreDisplay {
+    background-color: silver;
+    color: tomato;
+}
+.display div {
+    height: 20px;
+    width: 20px;
+}
+.ter {
+    background-color: red;
+}
+.grid div {
+    height: 20px;
+    width: 20px;
+    
+}
+body {
+    background-color: yellowgreen;
+}
